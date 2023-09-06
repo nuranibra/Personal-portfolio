@@ -46,7 +46,7 @@ btn.addEventListener('click',function(){
                         document.getElementById('password-text').style.color = 'green'
                         passwordAnswer.innerHTML = 'Şifreniz güclüdür!'
 
-                        window.location.href="./../.././main.html"
+                        window.location.href="./main.html"
                      }
                 }
             }
