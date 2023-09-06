@@ -339,6 +339,10 @@ footer{
     text-decoration: none;
 }
 
+i{
+    color:#fff;
+}
+
 @media all and (max-width:721px){
     header > section > nav{
         display: none;
